@@ -2,3 +2,4 @@
 
 TomBranch: Foo
 TomBranch: FooAgain
+Test of diff against upstream
